@@ -1,0 +1,6 @@
+TODO
+- rooms
+- user list
+- flood control
+- remember accounts
+- matching braces

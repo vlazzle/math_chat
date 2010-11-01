@@ -1,0 +1,8 @@
+MathJax's TEX input jax implements:
+- Nearly all plain TEX math-mode macros
+- But not stretchable glue or rules, and no low-level box commands, and no \halign
+- Some standard LATEX macros and environments
+  (\frac, \sqrt[]{}, \mathbb, etc.)
+- AMS symbols and AMS math environments
+  (gather, split, align, etc.)
+- Some extensions (e.g., \unicode)
