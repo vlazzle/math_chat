@@ -7,3 +7,10 @@ My changes so far:
 - gzip compression
 - Support for client-side parsing of Latex expressions, powered by [MathJax](http://www.mathjax.org/)
 - Slightly improved connection error handling
+
+Dependencies:
+
+- [Node.js](http://nodejs.org/)
+- [MathJax](http://www.mathjax.org/)
+- [Connect](http://github.com/senchalabs/connect/)
+- [jQuery](http://jquery.com/)
